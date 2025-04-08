@@ -1,5 +1,7 @@
 # Ecommerce website sample
 
+![Next.js Ecommerce Website](https://github.com/YukoHiguchi/nextjs-e-commerce/blob/master/banner.jpg)
+
 ## Tech Stack
 
 - **Next.js 15** – For server components and modern routing
